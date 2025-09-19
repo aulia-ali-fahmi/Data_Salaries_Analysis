@@ -27,4 +27,4 @@ This analysis focuses on answering the following strategic questions:
 
 For a detailed and interactive exploration of these findings, please visit the full dashboard on Tableau Public:
 
-**[https://public.tableau.com/app/profile/auliaalifahmi/viz/DataScienceSalariesin2023/DataScienceSalariesin2023]**
+**https://public.tableau.com/app/profile/auliaalifahmi/viz/DataScienceSalariesin2023/DataScienceSalariesin2023**
